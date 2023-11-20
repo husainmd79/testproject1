@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-19T21:58:23 EST" name="Suite" finished-at="2023-11-19T21:58:49 EST" duration-ms="26646">
+    <groups>
+    </groups>
+    <test started-at="2023-11-19T21:58:23 EST" name="Test" finished-at="2023-11-19T21:58:49 EST" duration-ms="26646">
+      <class name="datePicker.Expedia_DatePIcker_TestGood">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:datePicker.Expedia_DatePIcker_TestGood@38425407]" started-at="2023-11-19T21:58:28 EST" name="setUp" finished-at="2023-11-19T21:58:36 EST" duration-ms="8735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="datePickerTest()[pri:0, instance:datePicker.Expedia_DatePIcker_TestGood@38425407]" started-at="2023-11-19T21:58:36 EST" name="datePickerTest" finished-at="2023-11-19T21:58:39 EST" duration-ms="2390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePickerTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:datePicker.Expedia_DatePIcker_TestGood@38425407]" started-at="2023-11-19T21:58:39 EST" name="tearDown" finished-at="2023-11-19T21:58:39 EST" duration-ms="429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- datePicker.Expedia_DatePIcker_TestGood -->
+      <class name="datePicker.DataDriven_newTourTest_good">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:datePicker.DataDriven_newTourTest_good@43bc63a3]" started-at="2023-11-19T21:58:39 EST" name="setUp" finished-at="2023-11-19T21:58:42 EST" duration-ms="2992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="newTourDataDrivenTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:datePicker.DataDriven_newTourTest_good@43bc63a3]" started-at="2023-11-19T21:58:44 EST" name="newTourDataDrivenTest" data-provider="newtour" finished-at="2023-11-19T21:58:45 EST" duration-ms="915" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[salam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bangladesh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newTourDataDrivenTest -->
+        <test-method signature="newTourDataDrivenTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:datePicker.DataDriven_newTourTest_good@43bc63a3]" started-at="2023-11-19T21:58:45 EST" name="newTourDataDrivenTest" data-provider="newtour" finished-at="2023-11-19T21:58:46 EST" duration-ms="966" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rahim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cde@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[india]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newTourDataDrivenTest -->
+        <test-method signature="newTourDataDrivenTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:datePicker.DataDriven_newTourTest_good@43bc63a3]" started-at="2023-11-19T21:58:46 EST" name="newTourDataDrivenTest" data-provider="newtour" finished-at="2023-11-19T21:58:47 EST" duration-ms="1204" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[karim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fgh@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[london]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newTourDataDrivenTest -->
+        <test-method signature="newTourDataDrivenTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:datePicker.DataDriven_newTourTest_good@43bc63a3]" started-at="2023-11-19T21:58:47 EST" name="newTourDataDrivenTest" data-provider="newtour" finished-at="2023-11-19T21:58:48 EST" duration-ms="1095" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rahmot]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ijk@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[canada]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newTourDataDrivenTest -->
+        <test-method signature="newTourDataDrivenTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:datePicker.DataDriven_newTourTest_good@43bc63a3]" started-at="2023-11-19T21:58:48 EST" name="newTourDataDrivenTest" data-provider="newtour" finished-at="2023-11-19T21:58:49 EST" duration-ms="963" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fahim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lmn@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[turky]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newTourDataDrivenTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:datePicker.DataDriven_newTourTest_good@43bc63a3]" started-at="2023-11-19T21:58:49 EST" name="tearDown" finished-at="2023-11-19T21:58:49 EST" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- datePicker.DataDriven_newTourTest_good -->
+      <class name="amazon.Test_CheckBox">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:amazon.Test_CheckBox@c730b35]" started-at="2023-11-19T21:58:23 EST" name="setUp" finished-at="2023-11-19T21:58:27 EST" duration-ms="4424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCheckBox()[pri:0, instance:amazon.Test_CheckBox@c730b35]" started-at="2023-11-19T21:58:27 EST" name="testCheckBox" finished-at="2023-11-19T21:58:27 EST" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckBox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:amazon.Test_CheckBox@c730b35]" started-at="2023-11-19T21:58:27 EST" name="tearDown" finished-at="2023-11-19T21:58:28 EST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- amazon.Test_CheckBox -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
